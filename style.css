@@ -1386,10 +1386,7 @@ textarea.form-input::-webkit-resizer { display: none; }
  */
 
 
-
-@media (min-width: 450px) {
-
-	 /*  */
+/*  */
 /**
    * #REUSED STYLE
    */
@@ -1481,7 +1478,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .navbar { border-radius: 20px 20px 0 0; }
 
-  .navbar-list { gap: 20px; }
+  .navbar-list { gap: 15px; }
 
   .navbar-link { --fs-8: 14px; }
 
@@ -1512,6 +1509,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .service-content-box { text-align: left; }
   /*  */
+@media (min-width: 450px) {
+
+	 
   /**
    * client
    */
