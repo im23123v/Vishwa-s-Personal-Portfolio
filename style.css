@@ -1385,7 +1385,11 @@ textarea.form-input::-webkit-resizer { display: none; }
  * responsive larger than 450px screen
  */
 
- /*  */
+
+
+@media (min-width: 450px) {
+
+	 /*  */
 /**
    * #REUSED STYLE
    */
@@ -1508,9 +1512,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .service-content-box { text-align: left; }
   /*  */
-
-@media (min-width: 450px) {
-
   /**
    * client
    */
