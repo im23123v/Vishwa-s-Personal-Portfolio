@@ -1,4 +1,4 @@
-Welcome to my GitHub portfolio! 🚀
+ Welcome to my GitHub portfolio! 🚀
 I'm a multifaceted developer with a passion for cybersecurity, IoT, AI, and web development, as evidenced by the diverse range of projects you'll find here.
 
 Cybersecurity Exploration: Delve into my cybersecurity projects where I tackle real-world challenges, from threat detection algorithms to robust encryption techniques. I strive to stay ahead of emerging threats and develop innovative solutions to protect digital assets. 
